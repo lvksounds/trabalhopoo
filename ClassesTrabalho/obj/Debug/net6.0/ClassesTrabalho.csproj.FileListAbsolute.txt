@@ -1,0 +1,15 @@
+C:\Users\lvkso\OneDrive\Documentos\faculdade\5_periodo\poo I\1bim\BasicConceptsWork\ClassesTrabalho\obj\Debug\net6.0\ClassesTrabalho.csproj.AssemblyReference.cache
+C:\Users\lvkso\OneDrive\Documentos\faculdade\5_periodo\poo I\1bim\BasicConceptsWork\ClassesTrabalho\obj\Debug\net6.0\ClassesTrabalho.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lvkso\OneDrive\Documentos\faculdade\5_periodo\poo I\1bim\BasicConceptsWork\ClassesTrabalho\obj\Debug\net6.0\ClassesTrabalho.AssemblyInfoInputs.cache
+C:\Users\lvkso\OneDrive\Documentos\faculdade\5_periodo\poo I\1bim\BasicConceptsWork\ClassesTrabalho\obj\Debug\net6.0\ClassesTrabalho.AssemblyInfo.cs
+C:\Users\lvkso\OneDrive\Documentos\faculdade\5_periodo\poo I\1bim\BasicConceptsWork\ClassesTrabalho\obj\Debug\net6.0\ClassesTrabalho.csproj.CoreCompileInputs.cache
+C:\Users\lvkso\OneDrive\Documentos\faculdade\5_periodo\poo I\1bim\BasicConceptsWork\ClassesTrabalho\bin\Debug\net6.0\ClassesTrabalho.exe
+C:\Users\lvkso\OneDrive\Documentos\faculdade\5_periodo\poo I\1bim\BasicConceptsWork\ClassesTrabalho\bin\Debug\net6.0\ClassesTrabalho.deps.json
+C:\Users\lvkso\OneDrive\Documentos\faculdade\5_periodo\poo I\1bim\BasicConceptsWork\ClassesTrabalho\bin\Debug\net6.0\ClassesTrabalho.runtimeconfig.json
+C:\Users\lvkso\OneDrive\Documentos\faculdade\5_periodo\poo I\1bim\BasicConceptsWork\ClassesTrabalho\bin\Debug\net6.0\ClassesTrabalho.dll
+C:\Users\lvkso\OneDrive\Documentos\faculdade\5_periodo\poo I\1bim\BasicConceptsWork\ClassesTrabalho\bin\Debug\net6.0\ClassesTrabalho.pdb
+C:\Users\lvkso\OneDrive\Documentos\faculdade\5_periodo\poo I\1bim\BasicConceptsWork\ClassesTrabalho\obj\Debug\net6.0\ClassesTrabalho.dll
+C:\Users\lvkso\OneDrive\Documentos\faculdade\5_periodo\poo I\1bim\BasicConceptsWork\ClassesTrabalho\obj\Debug\net6.0\refint\ClassesTrabalho.dll
+C:\Users\lvkso\OneDrive\Documentos\faculdade\5_periodo\poo I\1bim\BasicConceptsWork\ClassesTrabalho\obj\Debug\net6.0\ClassesTrabalho.pdb
+C:\Users\lvkso\OneDrive\Documentos\faculdade\5_periodo\poo I\1bim\BasicConceptsWork\ClassesTrabalho\obj\Debug\net6.0\ClassesTrabalho.genruntimeconfig.cache
+C:\Users\lvkso\OneDrive\Documentos\faculdade\5_periodo\poo I\1bim\BasicConceptsWork\ClassesTrabalho\obj\Debug\net6.0\ref\ClassesTrabalho.dll

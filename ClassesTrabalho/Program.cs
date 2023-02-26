@@ -1,2 +1,14 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿/* 
+ * Trabalho POOI
+ * Lucas de Freitas Oliveira 
+ * Felipe Las Casas
+*/
+
+using ClassesTrabalho;
+
+var menu = new Menu(new Dictionary<string, Action>
+{
+    {"Soma",  Soma.Exercicio},
+});
+
+menu.SelecionarEExecutar();
