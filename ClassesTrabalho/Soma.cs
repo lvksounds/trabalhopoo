@@ -9,7 +9,7 @@ namespace ClassesTrabalho
 {
     internal class Soma
     {
-        public static void Exercicio()
+        public static void ExercicioSoma()
         {
             var soma = new Soma();
 

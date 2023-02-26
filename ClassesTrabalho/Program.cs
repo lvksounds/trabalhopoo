@@ -8,7 +8,7 @@ using ClassesTrabalho;
 
 var menu = new Menu(new Dictionary<string, Action>
 {
-    {"Soma",  Soma.Exercicio},
+    {"Soma",  Soma.ExercicioSoma},
 });
 
 menu.SelecionarEExecutar();

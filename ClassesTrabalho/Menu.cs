@@ -17,12 +17,12 @@ namespace ClassesTrabalho
 
         public void SelecionarEExecutar()
         {
-            int i = 1;
+            int indice = 1;
 
             foreach(var exercicio in Exercicios)
             {
-                Console.WriteLine("{0}) {1}", i, exercicio.Key);
-                i++;
+                Console.WriteLine("{0}) {1}", indice, exercicio.Key);
+                indice++;
             }
 
             Console.WriteLine("Digite um numero para selecionar um exercicio (enter selecionar o ultimo): ");
